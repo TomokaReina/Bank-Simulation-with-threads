@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571860888 source:c:\users\tekitu\desktop\school\utd\senior year\operating system concepts\project2\cs4348.001_rennosullivan_project2\main.cpp
+	<iostream>
+	<pthread.h>
+	<semaphore.h>
+	<queue>
+	<cstdlib>
+
